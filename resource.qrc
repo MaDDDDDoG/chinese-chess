@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/ChessBoard.png</file>
+        <file>image/black_pawn.png</file>
+        <file>image/red_pawn.png</file>
+        <file>image/black_pawn_touch.png</file>
+        <file>image/red_pawn_touch.png</file>
+        <file>image/black_cannon.png</file>
+        <file>image/black_cannon_touch.png</file>
+        <file>image/red_cannon.png</file>
+        <file>image/red_cannon_touch.png</file>
+        <file>image/black_knight.png</file>
+        <file>image/red_knight.png</file>
+        <file>image/red_knight_touch.png</file>
+        <file>image/black_knight_touch.png</file>
+        <file>image/black_rook.png</file>
+        <file>image/black_rook_touch.png</file>
+        <file>image/red_rook.png</file>
+        <file>image/red_rook_touch.png</file>
+        <file>image/black_elephant.png</file>
+        <file>image/black_elephant_touch.png</file>
+        <file>image/red_elephant.png</file>
+        <file>image/red_elephant_touch.png</file>
+        <file>image/black_advisor.png</file>
+        <file>image/black_advisor_touch.png</file>
+        <file>image/red_advisor.png</file>
+        <file>image/red_advisor_touch.png</file>
+        <file>image/black_king.png</file>
+        <file>image/black_king_touch.png</file>
+        <file>image/red_king.png</file>
+        <file>image/red_king_touch.png</file>
+        <file>image/black_attack.png</file>
+        <file>image/black_defend.png</file>
+        <file>image/red_attack.png</file>
+        <file>image/red_defend.png</file>
+    </qresource>
+</RCC>
